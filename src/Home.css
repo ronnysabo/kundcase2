@@ -1,0 +1,19 @@
+.bg-hero {
+  height: 75vh;
+}
+
+.page-wrapper {
+  overflow-x: hidden;
+}
+
+@media (max-width: 768px) {
+  .bg-hero {
+    height: 30vh;
+  }
+}
+
+@media (max-width: 998px) {
+  .bg-hero {
+    height: 50vh;
+  }
+}

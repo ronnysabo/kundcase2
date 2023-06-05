@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Smart meter X100",
+    "price": 199.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=2085_main&p_File_Type=rendition_369_jpg",
+    "description": "An advanced smart meter for accurate monitoring and analysis of energy consumption in real time."
+  },
+  {
+    "id": 2,
+    "name": "Energy monitoring system Y2000",
+    "price": 899.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=ODABCPMA042S-bis&p_File_Type=rendition_369_jpg&default_image=DefaultProductImage.png",
+    "description": "A complete system for monitoring and analyzing energy consumption in a building or industrial plant."
+  },
+  {
+    "id": 3,
+    "name": "Smart thermostat Z300",
+    "price": 129.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=PowerLogic_ION7550_ION7650_web&p_File_Type=rendition_369_jpg",
+    "description": "An intelligent thermostat that optimizes heating and cooling based on user behaviors and energy efficiency."
+  },
+  {
+    "id": 4,
+    "name": "Energy optimization software A400",
+    "price": 599.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=ION9000_web_only&p_File_Type=rendition_369_jpg",
+    "description": "Powerful software to optimize energy use and identify energy saving opportunities in an industrial plant."
+  },
+  {
+    "id": 5,
+    "name": "Solar panel system B5000",
+    "price": 3499.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=PB113689&p_File_Type=rendition_369_jpg",
+    "description": "A complete solar panel system to produce renewable energy and reduce dependence on traditional energy sources."
+  },
+  {
+    "id": 6,
+    "name": "Energy storage system C600",
+    "price": 2599.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=PB112041_range&p_File_Type=rendition_369_jpg",
+    "description": "Advanced battery storage system to store and use excess generated energy for later use."
+  },
+  {
+    "id": 7,
+    "name": "Intelligent lighting system D700",
+    "price": 499.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=PB115427&p_File_Type=rendition_369_jpg",
+    "description": "A smart lighting system that automatically adapts to optimize energy efficiency based on presence and lighting conditions."
+  },
+  {
+    "id": 8,
+    "name": "Load control system E800",
+    "price": 749.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=1872_main&p_File_Type=rendition_369_jpg",
+    "description": "A system to optimize and balance loads to avoid overload and maximize the efficiency of a facility."
+  },
+  {
+    "id": 9,
+    "name": "Energy consumption monitor F900",
+    "price": 299.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=RDS_61281_PM5000_series&p_File_Type=rendition_369_jpg",
+    "description": "A user-friendly device to monitor and visualize energy consumption in real time and help identify savings opportunities."
+  },
+  {
+    "id": 10,
+    "name": "Power factor compensation system G1000",
+    "price": 899.99,
+    "image": "https://download.schneider-electric.com/files?p_Doc_Ref=61274_main&p_File_Type=rendition_369_jpg",
+    "description": "A system that compensates for low power factor and optimizes the grid's reliability and energy efficiency."
+  }
+]

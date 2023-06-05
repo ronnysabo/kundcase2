@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Software Engineer",
+    "description": "We are seeking a skilled software engineer to join our dynamic development team. The ideal candidate should have strong programming skills and experience in developing scalable software applications. Join us to work on cutting-edge technologies and contribute to innovative software solutions.",
+    "lastDateToApply": "2023-06-30",
+    "sector": "Engineering"
+  },
+  {
+    "id": 2,
+    "name": "Marketing Manager",
+    "description": "We are hiring a creative and strategic marketing manager to lead our marketing efforts. The role involves developing marketing campaigns, managing digital channels, and analyzing market trends. If you have a passion for marketing and a proven track record in driving successful campaigns, we would love to hear from you.",
+    "lastDateToApply": "2023-06-25",
+    "sector": "Marketing"
+  },
+  {
+    "id": 3,
+    "name": "Financial Analyst",
+    "description": "We are looking for a detail-oriented financial analyst to join our finance team. The role involves financial modeling, budgeting, and analyzing financial data to support business decisions. If you have strong analytical skills and a background in finance, this is an excellent opportunity to contribute to our company's financial success.",
+    "lastDateToApply": "2023-06-20",
+    "sector": "Economics"
+  },
+  {
+    "id": 4,
+    "name": "Graphic Designer",
+    "description": "We have an opening for a talented graphic designer to create visually appealing designs across various platforms. The ideal candidate should be proficient in graphic design software and have a keen eye for aesthetics. Join our creative team and help us deliver captivating visual experiences to our audience.",
+    "lastDateToApply": "2023-06-15",
+    "sector": "Design"
+  },
+  {
+    "id": 5,
+    "name": "Customer Support Specialist",
+    "description": "We are seeking a customer-oriented professional to join our customer support team. The role involves providing timely and effective support to our clients, resolving their inquiries and issues. If you have excellent communication skills and a passion for delivering exceptional customer service, we would love to have you on board.",
+    "lastDateToApply": "2023-06-10",
+    "sector": "Support Tech"
+  },
+  {
+    "id": 4,
+    "name": "Graphic Designer",
+    "description": "We have an opening for a talented graphic designer to create visually appealing designs across various platforms. The ideal candidate should be proficient in graphic design software and have a keen eye for aesthetics. Join our creative team and help us deliver captivating visual experiences to our audience.",
+    "lastDateToApply": "2023-06-15",
+    "sector": "Design"
+  },
+  {
+    "id": 5,
+    "name": "Customer Support Specialist",
+    "description": "We are seeking a customer-oriented professional to join our customer support team. The role involves providing timely and effective support to our clients, resolving their inquiries and issues. If you have excellent communication skills and a passion for delivering exceptional customer service, we would love to have you on board.",
+    "lastDateToApply": "2023-06-10",
+    "sector": "Support Tech"
+  }
+]
